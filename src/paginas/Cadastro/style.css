@@ -1,0 +1,85 @@
+
+
+body {
+    background-color: #414427;
+}
+
+.cadastro-container {
+    text-align: center;
+    background-color: rgb(219, 201, 213);
+    width: 700px;
+    height: 950px;
+    margin: 15em auto;
+    border-radius: 1.5em;
+    box-shadow: 0px 11px 35px 2px rgba(11, 48, 17, 0.945);
+}
+.cadastro-container .form {
+    padding-top: 60px;
+}
+
+.cadastro-container .form h1 {
+    padding-top: 10px;
+    color: rgb(116, 80, 26);
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.cadastro-container .form input {
+    width: 70%;
+    color: rgb(95, 124, 138);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: rgba(136, 126, 126, 0.04);
+    padding: 10px 20px;
+    border: 1px;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    margin-bottom: 50px;
+    text-align: center;
+    margin-bottom: 0px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.cadastro-container .form input:focus, .input:focus {
+    border: 2px solid rgba(0, 0, 0, 0.18) ;
+}
+
+.cadastro-container .form button {
+    cursor: pointer;
+    border-radius: 5em;
+    color: #fff;
+    background: rgb(16, 61, 7);
+    border: 0;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 13px;
+    box-shadow: 0 0 30px 2px rgba(0, 0, 0, 0.04);
+}
+
+.cadastro-container .form p {
+    text-shadow: 0px 0px 3px rgba(117, 117, 117, 0.12);
+    color: rgb(67, 141, 67);
+    padding-top: 15px;
+}
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
